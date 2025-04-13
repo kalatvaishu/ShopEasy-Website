@@ -1,1 +1,2 @@
-# ShopEasy-Website![Uploading ShopEasy.png…]()
+
+![Uploading ShopEasy.png…]()
